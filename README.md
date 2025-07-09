@@ -73,8 +73,8 @@ Before running this project, ensure the following are installed on your system:
 | Maven              | [https://maven.apache.org](https://maven.apache.org) |
 
 👨‍💻 Developer Info
-Tanishka Natraj Phand
-📍 Student Developer
-📅 Project Date: July 2025
+ Tanishka Natraj Phand
+ 📍 Student Developer
+ 📅 Project Date: July 2025
 
 
