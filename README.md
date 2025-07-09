@@ -49,3 +49,31 @@ shoppingapp/
 │                       └── OnlineShoppingSystem.java
 ├── pom.xml
 └── README.md ✅
+```
+## 🧩 Dependencies (in `pom.xml`)
+
+Add this to your Maven `pom.xml` inside `<dependencies>` tag:
+
+```xml
+<dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.7.2</version>
+</dependency>
+```
+## 🛠️ Prerequisites
+
+Before running this project, ensure the following are installed on your system:
+
+| Tool              | Download Link                              |
+|-------------------|--------------------------------------------|
+| Java JDK (17 or 21)| [https://jdk.java.net](https://jdk.java.net) |
+| Eclipse IDE        | [https://www.eclipse.org](https://www.eclipse.org) |
+| PostgreSQL (v15+) | [https://www.postgresql.org/download](https://www.postgresql.org/download) |
+| Maven              | [https://maven.apache.org](https://maven.apache.org) |
+
+👨‍💻 Developer Info
+Tanishka Natraj Phand
+📍 Student Developer
+📅 Project Date: July 2025
+
