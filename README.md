@@ -72,7 +72,11 @@ Before running this project, ensure the following are installed on your system:
 | PostgreSQL (v15+) | [https://www.postgresql.org/download](https://www.postgresql.org/download) |
 | Maven              | [https://maven.apache.org](https://maven.apache.org) |
 
-👨‍💻 Developer Info
+## Project Screenshot
+
+
+
+## 👨‍💻Developer Info
  Tanishka Natraj Phand
  📍 Student Developer
  📅 Project Date: July 2025
