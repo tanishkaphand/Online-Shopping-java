@@ -73,8 +73,9 @@ Before running this project, ensure the following are installed on your system:
 | Maven              | [https://maven.apache.org](https://maven.apache.org) |
 
 ## Project Screenshot
-
-
+![Screenshot (2)](https://github.com/user-attachments/assets/36d01d04-09e8-4d2d-8214-8ab70ffcd393)
+![Screenshot (3)](https://github.com/user-attachments/assets/758296b4-3da4-4207-9b2c-5f79a4011b58)
+![Screenshot (4)](https://github.com/user-attachments/assets/94d9ca4d-437d-4a78-93a9-4e0b2bb5e993)
 
 ## 👨‍💻Developer Info
  Tanishka Natraj Phand
