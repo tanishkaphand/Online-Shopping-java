@@ -1,3 +1,7 @@
+Group Members:
+1)Tanishka Phand
+2)Shravani Devkar
+
 # Online-Shopping-java
 Console based Online Shopping System using java , JDBC, PostgreSQL, File Input- Output and Maven
 <h1 align="center">🛍️ Online Shopping System</h1>
